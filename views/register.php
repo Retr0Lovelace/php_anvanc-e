@@ -29,7 +29,7 @@ $data = $Functions->fetchDep();
     </select>
     <input type="submit" value="S'inscrire">
 </form>
-<a href="../">S'inscrire</a>
+<a href="../">Se connecter</a>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 <script src="../js/script.js"></script>
